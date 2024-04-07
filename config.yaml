@@ -1,0 +1,25 @@
+general:
+  timer_second: 0
+  enable_scores: true
+  enable_penalty: false
+
+addition:
+  enable: true
+  left_digits: 3
+  right_digits: 2
+
+subtraction:
+  enable: true
+  negative_result: false
+  left_digits: 3
+  right_digits: 2
+
+multiplication:
+  enable: true
+  left_digits: 3
+  right_digits: 2
+
+division:
+  enable: true
+  dividend_digits: 3
+  divisor_digits: 2
